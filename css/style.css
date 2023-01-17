@@ -22,5 +22,15 @@ body{
     height: 30rem;
 }
 #tribute-info{
+    font-weight:  bold;
+    font-family: sans-serif;
+}
 
+ol {
+    padding: 0 10rem;
+    text-align:  left;
+}
+
+.wiki{
+    font-size: 1.5rem;
 }

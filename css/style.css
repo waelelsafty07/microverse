@@ -1,0 +1,26 @@
+body{
+    margin:0 0 0 0;
+}
+#main{
+    text-align: center;
+    margin: 75px 20px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EEEEEE;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+#title{
+    font-size: 4rem;
+}
+#img-div{
+    background-color: white;
+    margin: 50px 25px;
+    padding-bottom: 25px;
+}
+#image{
+    margin-top: 20px;
+    height: 30rem;
+}
+#tribute-info{
+
+}
